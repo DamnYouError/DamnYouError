@@ -4,7 +4,7 @@
 
 ---
 
-# 👋 Hi, I'm Error
+# 👋 Hi, I'm Error known as Nemesis
 
 I am a **low-level systems and security developer** specializing in **game anti-cheat**, **kernel-mode security**, and **anti-tamper research**.  
 My work focuses on detecting advanced manipulation techniques across **usermode, kernelmode, and virtualized environments**.
