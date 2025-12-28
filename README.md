@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nemesis
+# 👋 Hi, I'm Error
 
 Low-level systems developer specializing in **game anti-cheat**, **kernel security**, and **reverse engineering**.  
 I focus on detecting advanced manipulation techniques across usermode, kernelmode, and virtualized environments.
